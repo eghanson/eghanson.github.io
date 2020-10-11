@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Erik Hanson
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Welcome! I'm a Ph.D candidate in Political Science at UCLA studying Race, Ethnicty, and Politics, and American Politics. My research examines representation in state legislatures and city councils, with a focus on the intersection of race and gender creating unique institutional pathways to political office. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My dissertation contributes to the literature on state legislatures by taking a mixed methods, interstate, and institutional approach to studying representation. My theoretical framework for analyzing the constraint among legislators is an ‘Hourglass of Representation,’ in which legislators (and particularly minority legislators) are pinched between ‘bottom up’ pressures from their district along with social movements and interest groups, and ‘top down’ forces, including the leadership structure and culture of the legislature and state-level political and institutional forces. I argue that minority, women, and working class legislators are particularly constrained by this situation both because the bottom up forces facing them are more intense and the roadblocks facing them for obtaining power and advancing agendas are more severe. 
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
