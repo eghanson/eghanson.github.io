@@ -40,9 +40,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "erikgra@ucla.edu"
-  facebook: deanattali
-  github: daattali
-  twitter: https://twitter.com/erikghanson
+#  facebook: deanattali
+#  github: daattali
+  twitter: "https://twitter.com/erikghanson"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
